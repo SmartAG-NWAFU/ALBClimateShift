@@ -64,11 +64,11 @@ This project is licensed under a custom academic use license. See the [LICENSE](
 ### Acknowledgments
 
 This work was supported by:
-	•	College of Soil and Water Conservation Science and Engineering, Northwest A&F University
-	•	State Key Laboratory of Soil Erosion and Dryland Farming on the Loess Plateau
-	•	China Agricultural University
+	• College of Soil and Water Conservation Science and Engineering, Northwest A&F University
+	• State Key Laboratory of Soil Erosion and Dryland Farming on the Loess Plateau
+	• China Agricultural University
 
 For inquiries, contact:
-	•	Prof. Qiang Yu: yuq@nwafu.edu.cn
-	•	Prof. Gang Zhao: gang.zhao@nwafu.edu.cn
+	• Prof. Qiang Yu: yuq@nwafu.edu.cn
+	• Prof. Gang Zhao: gang.zhao@nwafu.edu.cn
 
