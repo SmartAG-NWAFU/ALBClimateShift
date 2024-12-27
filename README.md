@@ -1,7 +1,4 @@
-![fig5_climate_changing_for_baseline](https://github.com/user-attachments/assets/1db522c1-404f-46eb-9232-72baaff76690)# ALBClimateShift-Predicting-Alternaria-Leaf-Blotch-Distribution-Under-Climate-Change-in-China
-
 # ALBClimateShift
-
 ## Overview
 **ALBClimateShift** is a research-based project that explores the climate-driven shifts in the suitable areas of Alternaria leaf blotch (ALB) on apples in China. Leveraging multiple species distribution models (SDMs) and climate change scenarios, this repository provides the data and code used in our analysis to enhance the understanding of ALB dynamics under future climatic conditions.
 
@@ -29,28 +26,25 @@ This project is based on the study:
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/ALBClimateShift.git
+   git clone https://github.com/chenbin98/ALBClimateShift.git
 2.	Install the required R packages.
 
 ### Data Description
 
 The dataset includes:
-	1.	ALB Occurrence Records: Collected from orchard surveys, public databases, and literature.
-	2.	Environmental Variables: Climatic data (temperature, precipitation, etc.) from CMIP6.
-	3.	Baseline and Future Climate Scenarios: GCMs data for the baseline (1970–2000) and projections (2030s, 2050s, 2070s, 2090s) under SSP126, SSP245, SSP370, and SSP585.
-
+	1.	ALB presence Records: Collected from orchard surveys, public databases, and literature.
+	2.	Environmental Variables: Climatic data (temperature, precipitation, etc.) from CMIP6. The topographic variables were derived from a digital elevation model (DEM)  from the Data Center of Resources and Environmental Sciences (http://www.resdc.cn/).
 
 ### Project Structure
 
 ALBClimateShift/
 ├── data/                      # Raw and processed data
-├── scripts/                   # Analysis scripts
-│   ├── 01_data_preprocessing.py
+├── src/                   # Analysis scripts
+│   ├── 01_data_preprocessing.R
 │   ├── 02_model_training.R
 │   ├── 03_projection_analysis.R
 │   └── 04_visualization.py
-├── results/                   # Output files and figures
-├── notebooks/                 # Jupyter/RMarkdown notebooks for exploratory analysis
+├── figs/                   # Output figures
 ├── README.md                  # Project documentation
 └── LICENSE                    # License file
 
@@ -63,7 +57,11 @@ Key findings:
  
 	•	The uncertainty in predictions is primarily driven by differences among GCMs (42.2%).
 
- ### Acknowledgments
+### License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+### Acknowledgments
 
 This work was supported by:
 	•	College of Soil and Water Conservation Science and Engineering, Northwest A&F University
