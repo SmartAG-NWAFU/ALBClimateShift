@@ -17,11 +17,12 @@ This project is based on the study:
 ## Getting Started
 
 ### Prerequisites
-2. R (>=4.1)
-4. R Packages:
-   - `biomod2`
-   - `dismo`
-   - `ggplot2`
+1. R version 4.4.2 
+2. Main R Packages:
+   - `sdm(1.2.52)`
+   - `usdm(2.1.7)`
+   - `raster(3.6.30)`
+   - `tidyverse(2.0.0)`
 
 ### Installation
 1. Clone this repository:
@@ -36,26 +37,26 @@ The dataset includes:
 	2.	Environmental Variables: Climatic data (temperature, precipitation, etc.) from CMIP6. The topographic variables were derived from a digital elevation model (DEM)  from the Data Center of Resources and Environmental Sciences (http://www.resdc.cn/).
 
 ### Project Structure
-
+```
 ALBClimateShift/
-├── data/                      # Raw and processed data
+├── data/                  # Raw and processed data
 ├── src/                   # Analysis scripts
 │   ├── 01_data_preprocessing.R
 │   ├── 02_model_training.R
 │   ├── 03_projection_analysis.R
 │   └── 04_visualization.py
-├── figs/                   # Output figures
-├── README.md                  # Project documentation
-└── LICENSE                    # License file
-
-
+├── figs/                  # Output figures
+├── README.md              # Project documentation
+└── LICENSE                # License file
+```
 ### Results
 
 Key findings:
-	•	ALB suitable areas are projected to shift northwestward (137–263 km) and to higher elevations (288–680 m) by 2090s under high-emission scenarios.
+1. ALB suitable areas are projected to shift northwestward (137–263 km) and to higher elevations (288–680 m) by 2090s under high-emission scenarios.
+![Change in suitable areas of ALB](figs/climate_changing_compare_to_baseline.jpg)
 
- 
-	•	The uncertainty in predictions is primarily driven by differences among GCMs (42.2%).
+2. The uncertainty in predictions is primarily driven by differences among GCMs (42.2%).
+![](figs/uncertainty_analysis.jpg)
 
 ### License
 
