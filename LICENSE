@@ -1,0 +1,32 @@
+Copyright (c) [Year] Bin Chen, Gang Zhao, Qi Tian, Linjia Yao, Genghong Wu, Jing Wang, Qiang Yu  
+All Rights Reserved.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software for academic and research purposes only, subject to the following conditions:
+
+1. **Academic Use Only**:  
+   The Software and associated datasets are provided for non-commercial, academic research, and educational purposes only. Any use for commercial purposes is strictly prohibited unless explicitly approved in writing by the original authors.
+
+2. **Citation Requirement**:  
+   If you use any part of this project in your research, you must cite the following paper (currently under review):  
+   > **"Climate-Driven Shifts in the Suitable Areas of Alternaria Leaf Blotch (Alternaria mali Roberts) on Apples: Projections and Uncertainty Analysis in China"**  
+   Authors: Bin Chen, Gang Zhao, Qi Tian, Linjia Yao, Genghong Wu, Jing Wang, Qiang Yu.
+
+   Corresponding authors:  
+   - Prof. Qiang Yu (Email: yuq@nwafu.edu.cn)  
+   - Prof. Gang Zhao (Email: gang.zhao@nwafu.edu.cn)
+
+3. **Pre-publication Restrictions**:  
+   This repository contains work based on a research paper that is currently under peer review. Redistribution, modification, or publication of this repository or any derived works must be accompanied by:
+   - Proper attribution to the original authors.
+   - A clear acknowledgment of the pending publication status.
+
+4. **Prohibition of Unauthorized Distribution**:  
+   Redistribution of the datasets or source code, either modified or unmodified, is not allowed without explicit written permission from the authors.
+
+5. **Disclaimer**:  
+   The Software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
+
+---
+
+**Note**:  
+This license is temporary and subject to revision upon the publication of the associated paper. Post-publication, the authors may adopt a different license to facilitate broader collaboration, following journal requirements or project goals.
