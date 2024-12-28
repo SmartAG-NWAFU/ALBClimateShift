@@ -34,7 +34,7 @@ This project is based on the study:
 
 The dataset includes:
 1. **ALB presence Records**: Collected from orchard surveys, public databases, and literature.
-2. **Environmental Variables**: Climatic data (temperature, precipitation, etc.) from CMIP6. The topographic variables were derived from a digital elevation model (DEM)  from the Data Center of Resources and Environmental Sciences (http://www.resdc.cn/).
+2. **Environmental Variables**: Climatic data (temperature, precipitation, etc.) from CMIP6. The topographic variables were derived from the Data Center of Resources and Environmental Sciences (http://www.resdc.cn/).
 
 ### Project Structure
 ```
