@@ -27,7 +27,7 @@ This project is based on the study:
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/chenbin98/ALBClimateShift.git
+   git clone https://github.com/SmartAG-NWAFU/ALBClimateShift.git
 2. Install the required R packages.
 
 ### Data Description
