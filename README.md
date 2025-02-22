@@ -53,10 +53,8 @@ ALBClimateShift/
 
 Key findings:
 1. ALB suitable areas are projected to shift northwestward (137–263 km) and to higher elevations (288–680 m) by 2090s under high-emission scenarios.
-![Change in suitable areas of ALB](figs/climate_changing_compare_to_baseline.jpg)
 
 2. The uncertainty in predictions is primarily driven by differences among GCMs (42.2%).
-![](figs/uncertainty_analysis.jpg)
 
 ### License
 This project is licensed under a custom academic use license. See the [LICENSE](./LICENSE) file for details.
