@@ -44,7 +44,6 @@ ALBClimateShift/
 │   ├── 01_model.R
 │   ├── 02_simulated_and_predicted.R
 │   ├── 03_results_analysis.R
-│   └── 04_visualization.R
 ├── figs/                  # Output figures
 ├── README.md              # Project documentation
 └── LICENSE                # License file
@@ -69,4 +68,7 @@ This work was supported by:
 For inquiries, contact:
 	• Prof. Qiang Yu: yuq@nwafu.edu.cn
 	• Prof. Gang Zhao: gang.zhao@nwafu.edu.cn
+
+### Citation
+   Chen, B., Zhao, G., Tian, Q., Yao, L., Wu, G., Wang, J., Yu, Q., 2025. Climate-driven shifts in suitable areas of Alternaria leaf blotch (Alternaria mali Roberts) on apples: Projections and uncertainty analysis in China. Agricultural and Forest Meteorology 364, 110464. https://doi.org/10.1016/j.agrformet.2025.110464
 
